@@ -15,6 +15,9 @@ Whisper requires `ffmpeg` to process audio files.
 - **macOS:** `brew install ffmpeg`
 - **Linux:** `sudo apt update && sudo apt install ffmpeg`
 
+## ✍️ Author
+**Kamyar Naeimi** - [GitHub Profile](https://github.com/kamyarnaeimi)
+
 ### 2. Python Libraries
 Install the official Whisper library and its dependencies:
 ```bash
@@ -57,8 +60,6 @@ Drag and drop your Python script, README.md, and requirements.txt.
 
 Click Commit changes.
 
-## ✍️ Author
-**Kamyar Naeimi** - [GitHub Profile](https://github.com/kamyarnaeimi)
 
 # 🎙️ Persian Speech-to-Text with Whisper
 این پروژه یک اسکریپت ساده پایتون برای تبدیل فایل‌های صوتی فارسی به متن (Transcribe) با استفاده از مدل قدرتمند **Whisper** اپن‌ای‌آی است.
