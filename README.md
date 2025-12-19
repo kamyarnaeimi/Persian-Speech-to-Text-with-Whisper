@@ -57,6 +57,9 @@ Drag and drop your Python script, README.md, and requirements.txt.
 
 Click Commit changes.
 
+## ✍️ Author
+**Kamyar Naeimi** - [GitHub Profile](https://github.com/kamyarnaeimi)
+
 # 🎙️ Persian Speech-to-Text with Whisper
 این پروژه یک اسکریپت ساده پایتون برای تبدیل فایل‌های صوتی فارسی به متن (Transcribe) با استفاده از مدل قدرتمند **Whisper** اپن‌ای‌آی است.
 
