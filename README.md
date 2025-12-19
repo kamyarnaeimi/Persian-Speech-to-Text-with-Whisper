@@ -7,6 +7,9 @@ A lightweight Python implementation for transcribing Persian (Farsi) audio files
 - **Flexible Models:** Easy to switch between `tiny`, `base`, `small`, `medium`, and `large`.
 - **Hardware Acceleration:** Automatically uses NVIDIA GPU (CUDA) if available.
 
+## ✍️ Author
+**Kamyar Naeimi** - [GitHub Profile](https://github.com/kamyarnaeimi)
+
 ## 🛠️ Prerequisites
 
 ### 1. System Dependency (FFmpeg)
@@ -14,9 +17,6 @@ Whisper requires `ffmpeg` to process audio files.
 - **Windows:** `choco install ffmpeg`
 - **macOS:** `brew install ffmpeg`
 - **Linux:** `sudo apt update && sudo apt install ffmpeg`
-
-## ✍️ Author
-**Kamyar Naeimi** - [GitHub Profile](https://github.com/kamyarnaeimi)
 
 ### 2. Python Libraries
 Install the official Whisper library and its dependencies:
